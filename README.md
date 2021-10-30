@@ -1,6 +1,6 @@
 # Revese String
 This is one of the most popular javaScript OR TypeScript algorithm, they can be used as coding interview !
-You an input text ( string ) and just bellow that you should dispaly the reverse string of this message
+You have an input text ( string ) and just bellow that you should dispaly the reverse string of this message
 [ This exercice should not take more that 15 min ] Good luck
 
 # Reverse
