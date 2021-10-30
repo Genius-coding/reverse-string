@@ -1,3 +1,8 @@
+# Revese String
+This is one of the most popular javaScript OR TypeScript algorithm, they can be used as coding interview !
+You an input text ( string ) and just bellow that you should dispaly the reverse string of this message
+[ This exercice should not take more that 15 min ] Good luck
+
 # Reverse
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.1.
